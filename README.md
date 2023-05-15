@@ -1,2 +1,6 @@
-# shortest-path-lgorithm-astar
-A* algorithm  search method created to find the Shortest Path integrated with Open Street Map
+# Shortest Path Algorithm A*
+
+## Para utilizar o programa precisa-se:
+1. Escrever o nome do local (place_name)
+2. Escolher o ponto de origem (origin_point)
+3. Escolher o ponto de destino (destination_point)
